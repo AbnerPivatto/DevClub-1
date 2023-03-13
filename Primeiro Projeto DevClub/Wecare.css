@@ -1,0 +1,131 @@
+    * { 
+    font-family: 'Montserrat', sans-serif; 
+    margin: 0;
+    padding : 0; 
+    box-sizing: border-box; }
+
+    header {
+    margin: 44px 0 144px 76px }
+
+
+  .logo-image {
+    width: 568px;
+    height: 500px; 
+    margin-left: 125px; 
+    margin-right: 86px;
+    display: inline-block; }
+
+   .link-header { 
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 29px;
+    cursor: pointer;
+    margin-right: 23px; 
+    color: #989D9C; }
+
+    .button-header {
+    border-radius: 20.5px;
+    width: 130px;
+    height: 41px;
+    border: none;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 29px;
+    color: #FFFFFF;
+    cursor:pointer;
+    background: #665AE1; } 
+
+    section {
+    display: inline-block;
+    margin-left: 86px; }
+
+    h1 {
+        font-weight: 900;
+        font-size: 100px;
+        line-height: 122px;
+        color: #515151; }
+
+    h2 {
+    font-weight: 500;
+    font-size: 58px;
+    line-height: 71px;
+    color: #515151; }
+
+    p {
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+    width: 515px;
+    margin-top: 32px;
+    color: #848484; }
+
+    .button-main {
+    border-radius: 30px;
+    font-weight: 700;
+    font-size: 28px;
+    line-height: 34px;
+    width: 239px;
+    height: 64px;
+    border: none;
+    cursor:pointer;
+    margin-left: 86px ;
+    margin-top: 65px ;
+    background: #ADFF00;
+    color: #000000; }
+
+
+  
+  @media screen and (max-width: 900px) {
+    
+    .logo-image {
+      width: 100%;
+      height: 50%;
+      padding: 0;
+      margin: 0 ; 
+      position: static;
+      max-width: 90%; }
+
+    header {
+      display: none; }
+
+     p {
+      display: none; }
+     
+
+    h1 {
+      font-weight: 900;
+      font-size: 50px;
+      line-height: 61px; 
+      text-align: center;
+      margin-bottom: 7px; }
+
+    h2 {
+      font-weight: 500;
+      font-size: 30px;
+      line-height: 37px;
+      text-align: center;
+      margin-bottom: 17px; }
+    
+    img {
+      width: 354px;
+      height: 317px;
+      display: block;
+      position: static;
+      margin: 149px 22px 334px 14px; }
+
+    .button-main {
+      margin: 0 auto;
+      display: block; } }
+
+   
+     
+   
+ 
+    
+    
+    
+  
+
+    
+
+       
